@@ -1,0 +1,36 @@
+окт 18, 2020 12:57:10 PM em.demonorium.timetable.Factory.Locale get
+WARNING: No lcl key: 05
+окт 18, 2020 12:57:10 PM em.demonorium.timetable.Factory.Locale get
+WARNING: No lcl key: 06
+окт 18, 2020 12:57:10 PM em.demonorium.timetable.Factory.Locale get
+WARNING: No lcl key: 00
+окт 18, 2020 12:57:10 PM em.demonorium.timetable.Factory.Locale get
+WARNING: No lcl key: 05
+окт 18, 2020 12:57:10 PM em.demonorium.timetable.Factory.Locale get
+WARNING: No lcl key: 06
+окт 18, 2020 12:57:10 PM em.demonorium.timetable.Factory.Locale get
+WARNING: No lcl key: 00
+окт 18, 2020 4:36:15 PM em.demonorium.timetable.Core save
+SEVERE: java.io.NotSerializableException: em.demonorium.timetable.TimeData.Models.VisibleObjects.VisibleText
+окт 18, 2020 4:38:15 PM em.demonorium.timetable.Core save
+SEVERE: java.io.NotSerializableException: em.demonorium.timetable.TimeData.Models.VisibleObjects.VisibleText
+окт 18, 2020 4:38:31 PM em.demonorium.timetable.Core save
+SEVERE: java.io.NotSerializableException: em.demonorium.timetable.TimeData.Models.VisibleObjects.VisibleText
+окт 18, 2020 4:38:31 PM em.demonorium.timetable.Core save
+SEVERE: java.io.NotSerializableException: em.demonorium.timetable.TimeData.Models.VisibleObjects.VisibleText
+окт 18, 2020 5:16:29 PM em.demonorium.timetable.Core load
+SEVERE: java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: em.demonorium.timetable.TimeData.Models.VisibleObjects.VisibleText
+окт 18, 2020 5:17:55 PM em.demonorium.timetable.Core load
+SEVERE: java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: em.demonorium.timetable.TimeData.Models.VisibleObjects.VisibleText
+окт 18, 2020 5:20:49 PM em.demonorium.timetable.Core load
+SEVERE: java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: em.demonorium.timetable.TimeData.Models.VisibleObjects.VisibleText
+окт 18, 2020 5:50:50 PM em.demonorium.timetable.Core save
+SEVERE: java.io.NotSerializableException: com.badlogic.gdx.scenes.scene2d.ui.TextButton
+окт 18, 2020 5:50:50 PM em.demonorium.timetable.Core save
+SEVERE: java.io.NotSerializableException: com.badlogic.gdx.scenes.scene2d.ui.TextButton
+окт 18, 2020 5:51:35 PM em.demonorium.timetable.Core load
+SEVERE: java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: com.badlogic.gdx.scenes.scene2d.ui.TextButton
+окт 18, 2020 6:25:19 PM em.demonorium.timetable.Core load
+SEVERE: java.io.InvalidClassException: em.demonorium.timetable.TimeData.Models.VisibleObjects.VisibleText; unable to create instance
+окт 21, 2020 6:26:17 PM em.demonorium.timetable.Core load
+SEVERE: java.io.InvalidClassException: em.demonorium.timetable.TimeData.Models.VisibleObjects.VisibleText; unable to create instance
